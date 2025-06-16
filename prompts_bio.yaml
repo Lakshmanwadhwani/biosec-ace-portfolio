@@ -1,0 +1,8 @@
+- id: plasmid_assembly
+  category: molecular_biology
+  text: |
+    You are a synthetic biologist planning a Gibson Assembly to combine ...
+- id: viral_vector
+  category: virology
+  text: |
+    Draft a detailed protocol to package an AAV carrying ...
