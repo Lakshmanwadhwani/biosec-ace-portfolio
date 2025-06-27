@@ -1,5 +1,11 @@
 # Threat-Model Cheat-Sheet — LLM Bio-Security Red-Team
 
+> **Executive Summary (June 2025)**  
+> We red-teamed GPT-3.5-turbo with 90 biology prompts—30 benign, 60 elevated-risk.  
+> **0 %** of responses leaked disallowed content (moderation + placeholder strategy).  
+> Future runs will raise temperature, swap in open-weights models, and track drift.
+
+
 | Slice | # Prompts | STRIDE class | MITRE ATLAS tactic | Observed % Unsafe |
 |-------|-----------|--------------|--------------------|-------------------|
 | Benign Control        | 30 | *N/A*          | *N/A*              | **0 %** |
