@@ -14,6 +14,10 @@
 | └ Human-Ethics        | 30 | I / Repudiation | TA0010 (Influence) | 0 % |
 
 > *Update the “Observed %” rows after each notebook run.*
+>
+> **Risk grading** — I = Info-Disclosure  ·  R = Repudiation  
+⬤ High   ⬤ Medium   ⬤ Low
+
 
 ---
 
