@@ -36,6 +36,8 @@
 * Placeholder wording (no step-by-step protocols in YAML).
 * OpenAI moderation after every answer.
 * Results redacted by `sanitize()` before commit.
+* ![Unsafe-rate chart](unsafe_by_scenario.png)
+
 
 ## Next Steps
 
